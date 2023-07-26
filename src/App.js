@@ -2,7 +2,7 @@ import { setup, isSupported } from "@loomhq/record-sdk";
 import { oembed } from "@loomhq/loom-embed";
 import React, { useState, useEffect } from "react"; // Import the React object
 
-const PUBLIC_APP_ID = "61ef0acd-39fa-4252-afba-7c70841ad32b";
+const PUBLIC_APP_ID = "PUBLIC_APP_ID";
 const BUTTON_ID = "loom-record-sdk-button";
 
 const LoomRecorderComponent = () => {
